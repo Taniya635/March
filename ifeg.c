@@ -61,3 +61,7 @@ int main(){
     }
     return 45;
 }
+
+
+// int arr[] = { 1, 2, 3, 4, 5 };
+// char arr[5] = { 'a', 'b', 'c', 'd', 'e' };
