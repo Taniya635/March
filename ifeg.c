@@ -55,7 +55,7 @@ int main(){
     // printf("%d",\n)
     for(i=1; i<=n; i++){
         for(j=1; j<=i; i++){
-            printf("%d floyd's triangle is:",n);
+            printf("%d floyd's triangle is :",n);
         }
         printf("\n");
     }
