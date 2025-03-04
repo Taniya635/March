@@ -5,3 +5,4 @@ name=g[0];
 surname=g[1];
 System.out.println("welcome"+name+" "+surname); }
 }
+
